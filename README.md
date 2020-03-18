@@ -27,4 +27,9 @@ For a detailed overview of results, you can check out [this Medium post](https:/
 3. **Politics**: local, state, congressional and presidential elections are happening this November in the US, however, election campaigns are taking a step back amid the outbreak with campaigns rallies being canceled, TV debates being held without an audience and some primaries being reschuled. The center of attention is shifting away from the elections and towards the virus and its economic effects. While Trump has been criticized for his handling of the situation and it is difficult for an incumbent to win a presidential election amid an economic downturn, today's environment of social media, fake news and partisan divides shouldn't be underestimated when it comes to Trump's chances to remain or leave the White House.
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
-The data used for the analysis comes from . Feel free to use the code as you please and play around with it.
+The data used for the analysis comes from:
+* Financial data: [Yahoo Finance](https://finance.yahoo.com/)
+* Coronavirus cases: [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
+* News: [Media Cloud](https://explorer.mediacloud.org/#/Home) and [The GDELT Project](https://blog.gdeltproject.org/gdelt-2-0-television-api-debuts/)
+* Politics: [FiveThirtyEight](https://projects.fivethirtyeight.com/trump-approval-ratings/) and [FiveThirtyEight](https://fivethirtyeight.com/features/how-concerned-are-americans-about-coronavirus-so-far/)
+Feel free to use the code as you please and play around with it.
